@@ -1,0 +1,21 @@
+{
+  "name": "fresenius-test",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/s-morgan-jeffries/fresenius-test.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "fresenius-assets": "0.0.x",
+    "grunt": "~0.4.1",
+    "grunt-bump": "0.0.14",
+    "grunt-fresenius-tasks": "0.0.x"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  }
+}

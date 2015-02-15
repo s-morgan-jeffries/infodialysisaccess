@@ -1,0 +1,4 @@
+d0ne: Update this so assets are served from both src and the assets dir in development
+d0ne: Update build task for assets so usemin knows to look in the assets directory
+
+t0d0: Copy Gruntfile to the generator and update all the <%%> tags
